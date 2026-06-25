@@ -1,0 +1,1 @@
+--Prime query su concorsi
