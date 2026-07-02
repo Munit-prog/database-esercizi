@@ -1,4 +1,4 @@
---per ciascun autore, la valutazione media dei suoi linri considerando solo i
+--per ciascun autore, la valutazione media dei suoi libri considerando solo i
 --prestiti effettivamente valutati, in ordine crescente
 
 
